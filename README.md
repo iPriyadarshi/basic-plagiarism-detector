@@ -10,13 +10,13 @@ A simple tool to detect potential plagiarism in text documents.
 
 ## Installation
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/iPriyadarshi/basic-plagiarism-detector.git
-
+```
 # Navigate to the directory
+```bash
 cd basic-plagiarism-detector
-
 ```
 
 ## Usage
