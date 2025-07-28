@@ -22,8 +22,8 @@ cd basic-plagiarism-detector
 ## Usage
 To use the plagiarism detector, you need to provide two text files as input. The script will compare the contents of these files and report the similarity percentage.
 
-```bash
 # Run the detector
+```bash
 python plagiarism_detector.py demo1.txt demo2.txt
 ```
 ## Requirements
@@ -32,4 +32,4 @@ python plagiarism_detector.py demo1.txt demo2.txt
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
